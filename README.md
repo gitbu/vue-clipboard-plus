@@ -1,7 +1,7 @@
 ## 安装
 
 ```bash
-npm i -S @vue/clipboard-plus
+npm i -S @aiping/vue-clipboard-plus
 ```
 
 ## 样例 
@@ -16,7 +16,7 @@ npm i -S @vue/clipboard-plus
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
   <script src="https://cdn.jsdelivr.net/npm/vue"></script>
-  <script src="https://unpkg.com/@vue/clipboard-plus"></script>
+  <script src="https://unpkg.com/@aiping/vue-clipboard-plus"></script>
 </head>
 <body>
   <div id="app">
@@ -53,7 +53,7 @@ npm i -S @vue/clipboard-plus
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
   <script src="https://unpkg.com/vue@next"></script>
-  <script src="https://unpkg.com/@vue/clipboard-plus"></script>
+  <script src="https://unpkg.com/@aiping/vue-clipboard-plus"></script>
 </head>
 <body>
   <div id="app">

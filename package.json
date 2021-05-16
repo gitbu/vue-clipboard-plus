@@ -1,5 +1,5 @@
 {
-  "name": "@vue/clipboard-plus",
+  "name": "@aiping/vue-clipboard-plus",
   "version": "1.0.0",
   "description": "一个兼容vue2和vue3的复制到剪切板的库",
   "main": "dist/main.js",
@@ -9,8 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/gitbu/vue-clipboard-plus"
   },
+  "homepage": "https://github.com/gitbu/vue-clipboard-plus",
   "keywords": [
     "vue2",
     "vue3",
